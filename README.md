@@ -35,6 +35,14 @@
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Machine Language](https://img.shields.io/badge/Machine%20Language%20-%23000000.svg?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
     
 
 <br>   
